@@ -5,7 +5,7 @@ export const themeConfig = {
     // 站点标题
     title: "~ BYEBACK ~",
     // 站点描述
-    description: "L'Internationale, sera le genre humain",
+    description: "L'Internationale",
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
@@ -16,7 +16,7 @@ export const themeConfig = {
     author: {
       name: "BYEBACKers",
       cover: "/images/logo/logo.webp",
-      email: "2448926122@qq.com",
+      email: "byebacker@163.com",
       link: "/",
     },
   },
@@ -122,12 +122,12 @@ export const themeConfig = {
         { text: "文章列表", link: "/pages/archives", icon: "article" },
       ],
     },
-    {
-       text: "零碎",
-       items: [
-          { text: "技术分享", link: "/pages/lifedots", icon: "technical" },
-       ],
-     },
+    // {
+    //    text: "零碎",
+    //    items: [
+    //       { text: "技术分享", link: "/pages/lifedots", icon: "technical" },
+    //    ],
+    // },
     {
       text: "友链",
       items: [
@@ -150,40 +150,40 @@ export const themeConfig = {
   // 导航栏菜单 - 左侧
   navMore: [
     {
-      name: "博客",
+      name: "Websites",
       list: [
         {
           icon: "/images/logo/logo.webp",
           name: "主站",
-          url: "https://www.8.152.158.36/",
+          url: "http://8.152.158.36/",
         },
         {
           icon: "/images/logo/logo.webp",
-          name: "博客镜像站",
-          url: "https://blog-backup.imsyy.top/",
+          name: "Vercel 镜像站",
+          url: "https://byeback.icu",
         },
       ],
     },
-    {
-      name: "服务",
-      list: [
-        {
-          icon: "https://pic.imgdb.cn/item/653a8388c458853aefefcc58.png",
-          name: "站点监测",
-          url: "https://status.imsyy.top/",
-        },
-      ],
-    },
-    {
-      name: "项目",
-      list: [
-        {
-          icon: "/images/logo/logo.webp",
-          name: "Curve",
-          url: "https://github.com/imsyy/vitepress-theme-curve",
-        }
-      ],
-    },
+    // {
+    //   name: "服务",
+    //   list: [
+    //     {
+    //       icon: "https://pic.imgdb.cn/item/653a8388c458853aefefcc58.png",
+    //       name: "站点监测",
+    //       url: "https://status.imsyy.top/",
+    //     },
+    //   ],
+    // },
+    // {
+    //   name: "项目",
+    //   list: [
+    //     {
+    //       icon: "/images/logo/logo.webp",
+    //       name: "Curve",
+    //       url: "https://github.com/imsyy/vitepress-theme-curve",
+    //     }
+    //   ],
+    // },
   ],
   // 页脚信息
   footer: {
@@ -191,11 +191,11 @@ export const themeConfig = {
     social: [
       {
         icon: "email",
-        link: "mailto:2448926122@qq.com",
+        link: "mailto:byebacker@163.com",
       },
       {
         icon: "github",
-        link: "https://www.github.com/Daleveral/",
+        link: "https://github.com/Dalecuc/byeback",
       },
       // {
       //   icon: "telegram",
@@ -203,7 +203,7 @@ export const themeConfig = {
       // },
       {
         icon: "bilibili",
-        link: "https://space.bilibili.com/496029253",
+        link: "https://space.bilibili.com/",
       },
       {
         icon: "qq",

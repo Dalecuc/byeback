@@ -3,9 +3,10 @@
     <h1 class="title">{{ theme.siteMeta.title }}</h1>
     <div class="subtitle">
       <Transition name="fade" mode="out-in">
-        <span :key="hitokotoData?.hitokoto" class="text">
+        <!-- <span :key="hitokotoData?.hitokoto" class="text">
           {{ hitokotoData?.hitokoto ? hitokotoData?.hitokoto : theme.siteMeta.description }}
-        </span>
+        </span> -->
+        <span>L'Internationale, sera le genre humain</span>
       </Transition>
     </div>
     <Transition name="fade" mode="out-in">
