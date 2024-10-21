@@ -4,9 +4,7 @@ tags: [communal]
 categories: [参与活动]
 date: 2024-10-21
 description: 面向同学们征集社团活动的点子
-references:
-  - title: vitepress-theme-curve
-    url: https://github.com/imsyy/vitepress-theme-curve
+
 ---
 
 ## Hello

@@ -65,14 +65,14 @@ const openRightMenu = (e) => {
   rightMenuRef.value?.openRightMenu(e);
 };
 
-// 复制时触发
-const copyTip = () => {
-  const copiedText = window.getSelection().toString();
-  // 检查文本内容是否不为空
-  if (copiedText.trim().length > 0 && typeof $message !== "undefined") {
-    $message.success("复制成功，在转载时请标注本文地址");
-  }
-};
+// // 复制时触发, 不要触发了
+// const copyTip = () => {
+//   const copiedText = window.getSelection().toString();
+//   // 检查文本内容是否不为空
+//   if (copiedText.trim().length > 0 && typeof $message !== "undefined") {
+//     $message.success("复制成功，在转载时请标注本文地址");
+//   }
+// };
 
 // 更改正确主题类别
 const changeSiteThemeType = () => {

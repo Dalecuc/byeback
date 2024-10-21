@@ -4,9 +4,7 @@ tags: [communal]
 categories: [社团建设]
 date: 2024-10-21
 description: 2024 年 10 月社团招新记录，待补充 ~
-references:
-  - title: vitepress-theme-curve
-    url: https://github.com/imsyy/vitepress-theme-curve
+
 ---
 
 

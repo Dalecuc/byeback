@@ -24,7 +24,7 @@ const linkData = [
     typeList: [
       {
         name: "無名小栈",
-        avatar: "https://pic.imgdb.cn/item/653a8388c458853aefefcc58.png",
+        avatar: "https://pic.imgdb.cn/item/65bc52b0871b83018a06699d.png",
         desc: "分享技术与科技生活",
         url: "https://imsyy.top/",
       },
@@ -36,7 +36,7 @@ const linkData = [
       },
       {
         name: "李寒的小窝",
-        avatar: "https://user-images.githubusercontent.com/140466644/266218167-0a08d24b-2f75-4a6b-9253-227612dffa98.png",
+        avatar: "https://pic.imgdb.cn/item/671684c8d29ded1a8cc594d8.png",
         desc: "Here is lihan's personal blog",
         url: "https://lihan3238.github.io",
       },

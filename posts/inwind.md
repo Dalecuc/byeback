@@ -4,9 +4,7 @@ tags: [communal]
 categories: [几行诗歌]
 date: 2024-10-10
 description: 答案在风中飘, 答案就在风中飘
-references:
-  - title: vitepress-theme-curve
-    url: https://github.com/imsyy/vitepress-theme-curve
+
 ---
 
 
