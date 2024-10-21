@@ -6,7 +6,9 @@
         <!-- <span :key="hitokotoData?.hitokoto" class="text">
           {{ hitokotoData?.hitokoto ? hitokotoData?.hitokoto : theme.siteMeta.description }}
         </span> -->
-        <span>L'Internationale, sera le genre humain</span>
+        <span class="text">
+          <span v-for="(char, index) in typingText" :key="index" class="typing-char">{{ 年轻的朋友一起玩 }}</span>
+        </span>
       </Transition>
     </div>
     <Transition name="fade" mode="out-in">
