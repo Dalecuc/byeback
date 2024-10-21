@@ -2,7 +2,7 @@
 title: 结局或开始, 献给遇罗克
 tags: [communal]
 categories: [几行诗歌]
-date: 2024-10-21
+date: 2024-10-12
 description: 沉重的影子像道路，穿过整个国土
 references:
   - title: vitepress-theme-curve
