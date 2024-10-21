@@ -132,33 +132,33 @@ export const shufflePost = (postData) => {
 /**
  * 复制文本到剪贴板
  * @param {string} data 要复制到剪贴板的文本
- */
-export const copyText = async (data) => {
-  if (navigator.clipboard) {
-    try {
-      await navigator.clipboard.writeText(data);
-      $message.success("复制成功，在转载时请标注本文地址");
-    } catch (error) {
-      console.error("复制出错：", error);
-      $message.error("复制出现错误，请重试");
-    }
-  } else {
-    // 如果浏览器不支持 navigator.clipboard
-    const textArea = document.createElement("textarea");
-    textArea.value = data;
-    document.body.appendChild(textArea);
-    textArea.select();
-    try {
-      document.execCommand("copy");
-      $message.success("复制成功，在转载时请标注本文地址");
-    } catch (err) {
-      console.error("复制出错：", err);
-      $message.error("复制出现错误，请重试");
-    } finally {
-      document.body.removeChild(textArea);
-    }
-  }
-};
+//  */
+// export const copyText = async (data) => {
+//   if (navigator.clipboard) {
+//     try {
+//       await navigator.clipboard.writeText(data);
+//       $message.success("复制成功，在转载时请标注本文地址");
+//     } catch (error) {
+//       console.error("复制出错：", error);
+//       $message.error("复制出现错误，请重试");
+//     }
+//   } else {
+//     // 如果浏览器不支持 navigator.clipboard
+//     const textArea = document.createElement("textarea");
+//     textArea.value = data;
+//     document.body.appendChild(textArea);
+//     textArea.select();
+//     try {
+//       document.execCommand("copy");
+//       $message.success("复制成功，在转载时请标注本文地址");
+//     } catch (err) {
+//       console.error("复制出错：", err);
+//       $message.error("复制出现错误，请重试");
+//     } finally {
+//       document.body.removeChild(textArea);
+//     }
+//   }
+// };
 
 /**
  * 图片 URL 复制到剪贴板
