@@ -2,7 +2,7 @@
 title: 欢迎大家投稿文章到本站 !
 tags: [communal]
 categories: [建站]
-date: 2024-10-20
+date: 2024-10-22
 description: 一群人可以走得更远
 references:
   - title: vitepress-theme-curve
@@ -39,7 +39,7 @@ references:
 
 ## 访问链接
 
-- 我们在 Vercel 上托管了网页, 网址为 : https://www.byeback.icu 或 https://byeback.vercel.app , 在大部分场景下, 网页访问速度还挺不错的. 但由于防火长城的存在, 偶尔在国内访问起来会很慢, 如果你了解 **科学上网** ( 即翻墙, 不熟悉可以联系李多扬, 群昵称 L, 微信 lihan2049 ), 那么访问速度就很快了.
+- 我们在 Vercel 上托管了网页, 网址为 : https://icu.byeback.icu 或 https://byeback.vercel.app , 在大部分场景下, 网页访问速度还挺不错的. 但由于防火长城的存在, 偶尔在国内访问起来会很慢, 如果你了解 **科学上网** ( 即翻墙, 不熟悉可以联系李多扬, 群昵称 L, 微信 lihan2049 ), 那么访问速度就很快了.
 
 - 我们也在一台阿里云服务器上部署的网页, 链接为最简单的 IP 地址 :  http://8.152.158.36/ 由于国内服务器部署的网站需要工信部审核后才能绑定域名, 所以还没给此服务器分配域名. 
 
