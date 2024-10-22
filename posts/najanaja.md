@@ -1,9 +1,9 @@
 ---
-title: 在风中飘
+title: 推荐乐队 Najanaja
 tags: [音乐]
 categories: [音乐]
-date: 2024-10-21
-description: Najanaja乐队，一支我今年非常喜爱的北京新声
+date: 2024-10-22
+description: Najanaja 乐队，一支我今年非常喜爱的北京新声
 
 ---
 
@@ -17,7 +17,10 @@ description: Najanaja乐队，一支我今年非常喜爱的北京新声
 
 乐队网易云主页：分享歌手 [Naja Naja](http://163cn.tv/ynLeGXr) (@网易云音乐)
 
+<br/>
+<br/>
 
-::: warning 来自
+
+::: tip 来自
 去眼镜化爱好者的分享
 :::
