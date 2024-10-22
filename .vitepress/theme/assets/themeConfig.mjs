@@ -155,11 +155,11 @@ export const themeConfig = {
         {
           icon: "/images/logo/logo.png",
           name: "Vercel 主站",
-          url: "https://www.byeback.icu",
+          url: "https://icu.byeback.icu",
         },
         {
           icon: "/images/logo/logo.png",
-          name: "镜像站",
+          name: "国内镜像站",
           url: "http://8.152.158.36/",
         },
       ],
