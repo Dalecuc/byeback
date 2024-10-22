@@ -150,7 +150,7 @@ export const themeConfig = {
   // 导航栏菜单 - 左侧
   navMore: [
     {
-      name: "Websites",
+      name: "Current Sites",
       list: [
         {
           icon: "/images/logo/logo.png",
@@ -164,16 +164,16 @@ export const themeConfig = {
         },
       ],
     },
-    // {
-    //   name: "服务",
-    //   list: [
-    //     {
-    //       icon: "https://pic.imgdb.cn/item/653a8388c458853aefefcc58.png",
-    //       name: "站点监测",
-    //       url: "https://status.imsyy.top/",
-    //     },
-    //   ],
-    // },
+    {
+      name: "Welcome Page",
+      list: [
+        {
+          icon: "/images/logo/logo.png",
+          name: "初始页",
+          url: "https://www.byeback.icu",
+        },
+      ],
+    },
     // {
     //   name: "项目",
     //   list: [
