@@ -15,7 +15,7 @@ references:
 
 - 本站是基于 VitePress 搭建的静态网页, 可以将它看作一个公告板或电子手帐, 用于记录和展示社团活动, 提供和谐、自由的信息分享环境. 
 
-- 大家可以将自己创作的文章发送至邮箱 byebacker@163.com . 来者不拒, 内容题材不限, 可以是技术分享、关于音乐、诗歌、书籍、软件的感想和推荐、发起新活动、薅羊毛项目、户外与旅游记录、散文随笔、生活记录、个人介绍、各种吐槽 ... 形式自由 !
+- 大家可以将自己创作的文章发送至邮箱 byebacker@163.com . 内容和题材不限, 可以是技术分享、关于音乐、诗歌、书籍、软件的感想和推荐、发起新活动、薅羊毛项目、户外与旅游记录、散文随笔、生活记录、个人介绍、各种吐槽 ... 形式自由 !
 
 - 建议大家在邮件里带上自己的昵称 ( 昵称作为文章的一个标签, 如果想要匿名那就是 anonyms 标签 )
 
@@ -27,6 +27,8 @@ references:
 ## 投稿格式
 
 - 我们的网页是基于 markdown 进行渲染的, 不熟悉 markdown 也没关系, 它本质上只是一个简单的笔记规则 ( 比如 Obsidian 就是基于 markdown ) , 我们可以学习简单的语法, 比如 [8 分钟让你快速掌握 Markdown](https://www.bilibili.com/video/BV1JA411h7Gw) . markdown 编辑器有 Typora, VS Code, Atom 等, 也可以用最简单的网络编辑器:  https://markdown.com.cn/editor/
+
+- 如果你熟悉 **github**, 还可以修改项目仓库 https://github.com/Dalecuc/byeback 并提交 PR , 也可以加入 Collaborators 小组中
 
 - 当然, 如果实在不想用 markdown 写作, 直接将文字或 pdf , docx, txt 发送到邮箱里也是可以的, 我们收到后会手动将其转化为 md 发布,  ( 只要文本不是非常复杂 )
 

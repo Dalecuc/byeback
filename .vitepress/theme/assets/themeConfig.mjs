@@ -40,7 +40,7 @@ export const themeConfig = {
           rel: "alternate",
           type: "application/rss+xml",
           title: "RSS",
-          href: "hhttps://www.byeback.icu/rss.xml",
+          href: "https://www.byeback.icu/rss.xml",
         },
       ],
       // 预载 CDN
