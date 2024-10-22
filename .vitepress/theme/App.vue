@@ -49,7 +49,7 @@ const route = useRoute();
 const store = mainStore();
 const { frontmatter, page, theme } = useData();
 const { loadingStatus, footerIsShow, themeValue, themeType, backgroundType, fontFamily, fontSize } =
-  storeToRefs(store);
+  storeToRefs(store); // 字体管理
 
 // 右键菜单
 const rightMenuRef = ref(null);
