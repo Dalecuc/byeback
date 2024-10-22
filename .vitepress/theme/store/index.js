@@ -43,8 +43,8 @@ export const mainStore = defineStore("main", {
       backgroundBlur: false,
       // 全站字体
       fontFamily: "hmos",
-      // 全站字体大小，动态设置
-      fontSize: window.innerWidth <= 480 ? 14 : 16,
+      // 全站字体大小
+      fontSize: 16,
       // 信息显示位置
       infoPosition: "fixed",
       // 上次滚动位置
@@ -78,12 +78,6 @@ export const mainStore = defineStore("main", {
           this.fontSize--;
         }
       }
-      const htmlElement = document.documentElement;
-      htmlElement.style.fontSize = this.fontSize + "px";
-    },
-    // 根据窗口大小自动调整字体
-    autoAdjustFontSize() {
-      this.fontSize = window.innerWidth <= 480 ? 14 : 16;
       const htmlElement = document.documentElement;
       htmlElement.style.fontSize = this.fontSize + "px";
     },
@@ -134,10 +128,4 @@ export const mainStore = defineStore("main", {
       ],
     },
   ],
-});
-
-// 在你的组件中添加窗口监听器
-window.addEventListener('resize', () => {
-  const store = mainStore();
-  store.autoAdjustFontSize();
 });
