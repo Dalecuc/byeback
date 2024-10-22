@@ -19,7 +19,7 @@
         <span class="desc">{{ theme.siteMeta.description }}</span>
       </div>
       <div class="link">
-        <a href="https://github.com/lihan3238/" target="_blank" class="social-link">
+        <a href="https://github.com/Dalecuc/byeback" target="_blank" class="social-link">
           <i class="iconfont icon-github"></i>
         </a>
         <a href="mailto:one@2448926122@qq.com" target="_blank" class="social-link">

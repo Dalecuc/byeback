@@ -7,7 +7,7 @@ export const themeConfig = {
     // 站点描述
     description: "L'Internationale",
     // 站点logo
-    logo: "/images/logo/logo.webp",
+    logo: "/images/logo/logo.svg",
     // 站点地址
     site: "https://www.byeback.icu",
     // 语言
@@ -15,7 +15,7 @@ export const themeConfig = {
     // 作者
     author: {
       name: "BYEBACKers",
-      cover: "/images/logo/logo.webp",
+      cover: "/images/logo/logo.svg",
       email: "byebacker@163.com",
       link: "/",
     },
