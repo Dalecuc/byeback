@@ -153,12 +153,12 @@ export const themeConfig = {
       name: "Websites",
       list: [
         {
-          icon: "/images/logo/logo.webp",
+          icon: "/images/logo/logo.png",
           name: "Vercel 主站",
           url: "https://www.byeback.icu",
         },
         {
-          icon: "/images/logo/logo.webp",
+          icon: "/images/logo/logo.png",
           name: "镜像站",
           url: "http://8.152.158.36/",
         },

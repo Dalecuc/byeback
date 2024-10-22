@@ -19,16 +19,18 @@ references:
 
 - 建议大家在邮件里带上自己的昵称 ( 昵称作为文章的一个标签, 如果想要匿名那就是 anonyms 标签 )
 
-- 大家发现网页的任何问题, 也请反馈到邮箱, 谢谢 ~
+- 如果发现网页的任何问题或想提出建议, 也请反馈到邮箱, 谢谢 ~
 
 <br/>
 
 
 ## 投稿格式
 
-- 我们的网页是基于 markdown 进行渲染的, 不熟悉 markdown 也没关系, 它本质上只是一个简单的笔记规则 ( 比如 Obsidian 就是基于 markdown ) , 我们可以学习简单的语法, 比如 [8 分钟让你快速掌握 Markdown](https://www.bilibili.com/video/BV1JA411h7Gw) . markdown 编辑器有 Typora, VS Code, Atom 等, 也可以用最简单的网络编辑器:  https://markdown.com.cn/editor/
+- 我们的网页是基于 markdown 进行渲染的, 不熟悉 markdown 也没关系, 它本质上只是一个简单的笔记规则 ( 比如 Obsidian 就是基于 markdown ) . 我们可以学习简单的语法, 比如 [8 分钟让你快速掌握 Markdown](https://www.bilibili.com/video/BV1JA411h7Gw) . markdown 编辑器有 Typora, Obsidian, VS Code, Atom 等, 也可以用最简单的在线编辑器:  https://markdown.com.cn/editor/. 以及在 [语雀](https://www.yuque.com/dashboard) 和 [Notion](https://www.notion.so/) 上的笔记都可以自由导出为 markdown
 
-- 如果你熟悉 **github**, 还可以修改项目仓库 https://github.com/Dalecuc/byeback 并提交 PR , 也可以加入 Collaborators 小组中
+- VitePress 上也存在一些定制的 markdown 语法, 能在网页上生成特殊组件, 可阅读 [Curve 主题文档 - 标签使用](https://blog.imsyy.top/posts/2024/0307)
+
+- 如果你熟悉 **github**, 还可以直接修改项目仓库 https://github.com/Dalecuc/byeback 并提交 PR , 也可以加入 Collaborators 小组中
 
 - 当然, 如果实在不想用 markdown 写作, 直接将文字或 pdf , docx, txt 发送到邮箱里也是可以的, 我们收到后会手动将其转化为 md 发布,  ( 只要文本不是非常复杂 )
 
@@ -37,7 +39,7 @@ references:
 
 ## 访问链接
 
-- 我们在 Vercel 上托管了网页 : https://www.byeback.icu 或 https://byeback.vercel.app , 在大部分场景下, 网页访问速度还挺不错的. 但由于防火长城的存在, 偶尔在国内访问起来会很慢, 如果你了解 **科学上网** ( 即翻墙, 不熟悉可以联系李多扬, 群昵称 L, 微信 lihan2049 ), 那么访问速度就很快了.
+- 我们在 Vercel 上托管了网页, 网址为 : https://www.byeback.icu 或 https://byeback.vercel.app , 在大部分场景下, 网页访问速度还挺不错的. 但由于防火长城的存在, 偶尔在国内访问起来会很慢, 如果你了解 **科学上网** ( 即翻墙, 不熟悉可以联系李多扬, 群昵称 L, 微信 lihan2049 ), 那么访问速度就很快了.
 
 - 我们也在一台阿里云服务器上部署的网页, 链接为最简单的 IP 地址 :  http://8.152.158.36/ 由于国内服务器部署的网站需要工信部审核后才能绑定域名, 所以还没给此服务器分配域名. 
 
@@ -45,11 +47,20 @@ references:
 
 ## 开发维护
 
-- 目前运营成员有 **`lemonlesbian` 、`Dale` 、 `L ( 21 网安 ldy )`、 `驱蚊助手`**. 我们每天会至少更新一次网页内容, 维护网站正常运行, 并尝试开发新的功能. 
+- 目前运营成员有 **`Lemonlesbian` 、`Dale` 、 `L ( 21 网安 ldy )`、 `驱蚊助手`**. 我们每天会至少更新一次网页内容, 维护网站正常运行, 并尝试开发新的功能. 
 
 - 如果你有 Linux、git、markdown 等方面的基础或有过建站经验,  请加入我们 !  当然, 如果你有热情, 其实从零掌握这些技能也只需要几个小时 ~  
 
-- 对网站有任何建议也请通过邮箱反馈 ~
+- 对网站有任何建议也请通过邮箱 byebacker@163.com 反馈 ~
 
 <br/>
 <br/>
+
+
+::: tip Written
+Dale, 2024 / 10 / 22
+:::
+
+<br/>
+<br/>
+
