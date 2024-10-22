@@ -9,7 +9,7 @@ export const themeConfig = {
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
-    site: "http://8.152.158.36/",
+    site: "https://www.byeback.icu",
     // 语言
     lang: "zh-CN",
     // 作者
@@ -40,7 +40,7 @@ export const themeConfig = {
           rel: "alternate",
           type: "application/rss+xml",
           title: "RSS",
-          href: "https://www.8.152.158.36/rss/feed.xml",
+          href: "hhttps://www.byeback.icu/rss.xml",
         },
       ],
       // 预载 CDN
@@ -154,13 +154,13 @@ export const themeConfig = {
       list: [
         {
           icon: "/images/logo/logo.webp",
-          name: "主站",
-          url: "http://8.152.158.36/",
+          name: "Vercel 主站",
+          url: "https://www.byeback.icu",
         },
         {
           icon: "/images/logo/logo.webp",
-          name: "Vercel 镜像站",
-          url: "https://byeback.icu",
+          name: "镜像站",
+          url: "http://8.152.158.36/",
         },
       ],
     },
@@ -256,7 +256,7 @@ export const themeConfig = {
         items: [
           // { text: "站点状态", link: "https://status.imsyy.top/", newTab: true },
           { text: "一个导航", link: "https://nav.imsyy.top/", newTab: true },
-          { text: "站点订阅", link: "https://8.152.158.36/rss.xml", newTab: true },
+          { text: "站点订阅", link: "https://www.byeback.icu/rss.xml", newTab: true },
           // {
           //   text: "反馈投诉",
           //   link: "https://eqnxweimkr5.feishu.cn/share/base/form/shrcnCXCPmxCKKJYI3RKUfefJre",

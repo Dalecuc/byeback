@@ -12,7 +12,7 @@ references:
 
 ## Hello
 
-🎉 你好啊，很高兴你选择了 [vitepress-theme-curve](https://github.com/imsyy/vitepress-theme-curve) ！这将是你的第一篇文章，你可以查看 [主题文档](https://8.152.158.36/pages/categories/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3) 以了解更多，如果你在使用本主题时遇到问题，你可以在 [GitHub](https://github.com/imsyy/vitepress-theme-curve) 中正确的提交 [issues](https://github.com/imsyy/vitepress-theme-curve/issues) 以获取社区的帮助。
+🎉 你好啊，很高兴你选择了 [vitepress-theme-curve](https://github.com/imsyy/vitepress-theme-curve) ！这将是你的第一篇文章，你可以查看 [主题文档](https://www.byeback.icu/pages/categories/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3) 以了解更多，如果你在使用本主题时遇到问题，你可以在 [GitHub](https://github.com/imsyy/vitepress-theme-curve) 中正确的提交 [issues](https://github.com/imsyy/vitepress-theme-curve/issues) 以获取社区的帮助。
 
 ## 快速开始
 
@@ -62,4 +62,4 @@ pnpm build
 
 ## 更多
 
-更多信息请参考：[主题文档](https://8.152.158.36/pages/categories/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3)
+更多信息请参考：[主题文档](https://www.byeback.icu/pages/categories/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3)

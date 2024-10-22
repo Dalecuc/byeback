@@ -22,25 +22,18 @@ import Link from "@/views/Link.vue";
 
 ### 本站友链信息
 
-- 名称：`BYEBACK`
-- 描述：`年轻的朋友一起玩`
-- 地址：`https://byeback.icu`
-- 头像：`https://pic.imgdb.cn/item/65bc52b0871b83018a06699d.png`
-- 站点图片：`https://pic.imgdb.cn/item/65dc47009f345e8d030b65ba.png`
-- 订阅：`https://8.152.158.36/rss.xml`
-
-```yml
-name: 無名小栈
-desc: 分享技术与科技生活
+```yaml
+name: BYEBACK
+desc: 年轻的朋友一起玩
 url: https://byeback.icu
 avatar: https://pic.imgdb.cn/item/65bc52b0871b83018a06699d.png
 screenshot: https://pic.imgdb.cn/item/65dc47009f345e8d030b65ba.png
-rss: https://8.152.158.36/rss.xml
+rss: https://www.byeback.icu/rss.xml
 ```
 
 ### 申请友链
 
-- 已添加 [BYEBACK](https://8.152.158.36/) 的友情链接
+- 已添加 [BYEBACK](https://www.byeback.icu/) 的友情链接
 - 站点目前可以在 **中国大陆区域** 正常访问
 - 网站内容符合 **中国大陆法律法规**
 - **请多多来访噢**

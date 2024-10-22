@@ -7,7 +7,7 @@
           {{ hitokotoData?.hitokoto ? hitokotoData?.hitokoto : theme.siteMeta.description }}
         </span> -->
         <span class="text">
-            <div style="text-align: center;">欢迎来到前卫艺术社团 / 年轻的朋友一起玩</div>
+            <div style="text-align: center;">欢迎来到前卫艺术社 / 年轻的朋友一起玩</div>
         </span>
       </Transition>
     </div>

@@ -1,7 +1,7 @@
 ---
 title: 结局或开始, 献给遇罗克
 tags: [communal]
-categories: [几行诗歌]
+categories: [诗歌]
 date: 2024-10-12
 description: 沉重的影子像道路，穿过整个国土
 
@@ -16,7 +16,7 @@ description: 沉重的影子像道路，穿过整个国土
 
 为了每当太阳升起
 
-让沉重的影子象道路
+让沉重的影子像道路
 
 穿过整个国土
 

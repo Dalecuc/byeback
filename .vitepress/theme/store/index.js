@@ -43,8 +43,8 @@ export const mainStore = defineStore("main", {
       backgroundBlur: false,
       // 全站字体
       fontFamily: "hmos",
-      // 全站字体大小
-      fontSize: 16,
+      // 全站字体大小, 桌面端 16 , 移动端 14
+      fontSize: window.innerWidth <= 480 ? 14 : 16,
       // 信息显示位置
       infoPosition: "fixed",
       // 上次滚动位置

@@ -1,7 +1,7 @@
 ---
 title: 在风中飘
 tags: [communal]
-categories: [几行诗歌]
+categories: [诗歌]
 date: 2024-10-10
 description: 答案在风中飘, 答案就在风中飘
 
