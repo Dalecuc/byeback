@@ -216,8 +216,10 @@ export const downloadImage = (imageUrl) => {
 export const getGreetings = () => {
   const hour = new Date().getHours();
   let hello;
-  if (hour < 6) {
-    hello = "凌晨好，昨晚睡得怎么样？";
+  if (hour < 4) {
+    hello = "夜深了, 早点休息！";
+  } else if (hour < 6) {
+    hello = "现在好早噢 ~";
   } else if (hour < 9) {
     hello = "早上好，今天也要开心哦！";
   } else if (hour < 12) {
