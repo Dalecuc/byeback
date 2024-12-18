@@ -160,7 +160,7 @@ export const themeConfig = {
         {
           icon: "/images/logo/logo.png",
           name: "国内镜像站",
-          url: "http://140.246.23.37:2017/",
+          url: "http://8.140.237.165:3000/",
         },
       ],
     },
